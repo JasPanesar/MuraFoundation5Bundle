@@ -1,4 +1,4 @@
-# MuraFundation5 Bundle
+# MuraFoundation5 Bundle
 A [Mura CMS](http://www.getmura.com) Site Bundle based on [Foundation](http://foundation.zurb.com/), a responsive front-end framework.
 
 ## What Is A Mura CMS Site Bundle?
